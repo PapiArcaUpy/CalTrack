@@ -1,0 +1,1 @@
+My logs record the program's startup, meals added (from the menu or manually), invalid input errors, meals not found in the menu, and the final result compared to the daily goal, in order to track what the user did and detect errors if something fails.
